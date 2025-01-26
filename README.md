@@ -18,7 +18,7 @@ Uma aplicação simples de **calculadora** desenvolvida com **HTML**, **CSS**, *
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/lazaroalvesr/Calculadora
+    git clone https://github.com/lazaroalvesr/Calculadora.git
     ```
 
 2. Navegue até o diretório do projeto:
