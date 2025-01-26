@@ -6,7 +6,6 @@ Uma aplicação simples de **calculadora** desenvolvida com **HTML**, **CSS**, *
 
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização da interface.
-- **JavaScript**: Lógica para a interação da calculadora.
 - **TypeScript**: Tipagem estática e melhores práticas para manipulação dos dados.
 
 ## Funcionalidades
